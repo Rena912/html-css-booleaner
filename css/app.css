@@ -1,0 +1,43 @@
+header{
+    background-color: rgb(132, 196, 255);
+    background-image: url('../img/pattern.png');
+    background-size: contain;
+    padding: 40px;
+}
+body{
+    margin: 0px;
+}
+h1{
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-size: 36px;
+}
+.article{
+    color: grey;
+}
+.img{
+    margin-top: 20px;
+}
+ul{
+    padding: 15px;
+}
+footer{
+    background-color: rgb(9, 77, 213);
+    text-align: center;
+    padding: 20px;
+}
+.hero{
+    height: 36px;
+    padding-left: 143px;
+}
+main{
+    margin: auto;
+    padding: 30px;
+    width: 80%;
+}
+.table{
+    background-color: rgb(170, 229, 249);
+}
+.title-table{
+    background-color: rgb(80, 172, 241);
+}
