@@ -1,21 +1,24 @@
 header{
     background-color: rgb(132, 196, 255);
     background-image: url('../img/pattern.png');
-    background-size: contain;
-    padding: 40px;
+    background-size: auto;
+    width: 100%;
 }
 body{
     margin: 0px;
+    position: relative;
+    min-height: 100vh
 }
 main{
     margin: auto;
-    padding: 30px;
+    padding: 40px;
     width: 80%;
 }
 .hero{
     height: 36px;
-    display: block;
-    align: left;
+    margin-left: 180px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 h1{
     margin-bottom: 0px;
